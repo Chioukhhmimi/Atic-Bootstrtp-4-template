@@ -1,0 +1,406 @@
+/*
+About Us page Style
+
+Createur :HMIMI CHIOUKH 
+
+Theme Name : ATIC Multipurpose Bootstrap Theme
+
+Categories : Bootstrap, Multipurpose theme,Domain,Business
+
+Date : 29/01/2019
+*/
+
+/*  Body style */
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+*{
+
+}
+body{
+margin: 0!important;
+padding: 0!important;
+	font-family: 'Poppins', sans-serif;
+}
+/*Header*/
+header{
+	background-image: url("../../images/bg/bg-header-about.svg");
+	background-repeat: no-repeat;
+	height: 600px;
+	background-position :-300px -450px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 200px!important;
+}
+.Bg-atic{
+	background-color: transparent!important;
+}
+.navbar{
+	padding-top: 25px!important;
+	padding-right: 10px!important;
+}
+.navbar-nav{
+}
+.navbar-nav li{
+	padding-right: 5px;
+	margin-right: 10px!important;
+}
+.btn-ask{
+	border-color: white!important;
+	color: white!important;
+	border-radius: 25px!important;
+	width: 100px;
+}
+.btn-ask a{
+    text-decoration: none!important;
+    color: white!important;
+}
+.logo{
+	width: 80px!important;
+	margin-left: 20px;
+}
+.info-hero{
+	margin-top: 50px;
+	color: white;
+}
+.info-hero h5{
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.title-section{
+	font-weight: 900;
+	margin-bottom: 50px;
+   font-family: 'Poppins', sans-serif;
+}
+.title-section h5{
+		font-weight: 900;
+margin-left: -50px!important;
+}
+/*Team Section style*/
+#team{
+	margin-bottom: 200px!important;
+	margin-top: -400px!important;
+}
+.team-title h5{
+   font-family: 'Poppins', sans-serif;
+	font-weight: 900;
+	color: white!important;
+}
+.card-deck{
+	margin-top: 200px;
+}
+.rd{
+	margin-left: 30px!important;
+	width: 180px!important;
+	height: 50!important;
+}
+#team .card-deck h5{
+	color: black!important;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 900;
+	margin-bottom: 20px!important;
+}
+#team .card-deck p{
+	color: black!important;
+	margin-top: 20px!important;
+	font-family: 'Poppins', sans-serif;
+}
+.card{
+	border:0px!important;
+}
+
+
+
+.img-serv{
+	margin-left: 35%;
+	margin-top: 30px;
+	width: 91px!important;
+    height: 78.19px!important;
+}
+/*Services*/
+#service{
+	margin-top: 50px!important;
+	margin-bottom: 100px!important;
+}
+.title-section{
+	font-weight: 900;
+	margin-bottom: 50px;
+   font-family: 'Poppins', sans-serif;
+
+}
+.title-section h5{
+		font-weight: 900;
+margin-left: -50px!important;
+}
+.card{
+	margin-right: 0px!important;
+	margin-left: 50px!important;
+	border-width: 0px!important;
+	border-radius: 10!important;
+	
+
+}
+.img-serv{
+	margin-left: 35%!important;
+	margin-top: 30px!important;
+	width: 91px!important;
+    height: 78.19px!important;
+}
+.card-sr{
+	-webkit-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+   -moz-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+    box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+}
+
+.btn-faq{
+	width: 1100px!important;
+}
+.accordion .card{
+	   font-family: 'Poppins', sans-serif;
+	margin-bottom: 20px!important;
+	border-radius: 30px!important;
+}
+.accordion .card .card-header{
+border:0px!important;
+
+}
+.accordion .card .card-header .btn-link{
+color: black!important;
+font-family: 'Poppins', sans-serif;
+text-decoration: none!important;
+font-weight: 900;
+}
+.accordion .card .card-header .btn-link i{
+color: #5878CF!important;
+padding-left: 400px!important;}
+.accordion .card .card-body{
+background-color: rgba(0,0,0,.03)!important;
+
+}
+.title-section h5{
+	font-weight: 900;
+   font-family: 'Poppins', sans-serif;
+}
+/*Clients section*/
+#client{
+	margin-top: 100px!important;
+}
+.client-title{
+	   font-family: 'Poppins', sans-serif;
+
+}
+.client-title h5{
+	font-weight: 900;
+   font-family: 'Poppins', sans-serif;
+}
+.right-area{
+	margin-left: 200px;
+position: absolute; 
+top: 10px;
+}
+.str li{
+	margin-right: 10px;
+}
+.cl{
+	margin-top: 90px; 
+}
+.client{
+   font-family: 'Poppins', sans-serif;
+   margin-left: 50px!important;
+
+}
+.middle-area a{
+	color: black;
+	font-size: 16px;
+	font-weight: 900!important; 
+}
+.middle-area{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.client p{
+	font-size: 13px;
+}
+.img-cm{
+	width: 50px;
+}
+.right-area  a{
+	color: black;
+	font-size: 12px;
+}
+/*Newsletter Style*/
+#mail{
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+.mail-area{
+    background-image: url("../../images/bg/bg-mail.svg");
+    background-position: -350px 100px;
+    background-repeat: no-repeat;
+	height: 500px;
+	margin-left: 0px;
+}
+.info-mail{
+	padding-top: 210px;
+	background-color: transparent;
+	margin-left: 20px;
+	color: white;}
+.info-mail h6{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 900;
+	color: white;
+}
+
+.form-row{
+	padding-top: 5px!important;
+	padding-left:  25px!important;
+
+}
+.fm-mail{
+	border-radius: 30px!important;
+	width: 250px!important;
+	margin-top: 10px;
+	border-top-left-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+	border-left-width: 0px!important;
+	margin-right: 30px!important; 
+	height: 38px!important;
+}
+.btn-send{
+	margin-top: 10px;
+	margin-left: 25px!important;
+	width: 250px!important;
+	background-color: #5878CF;
+	border-radius: 30px!important;
+}
+.btn-mail{
+	width: 400px!important;
+	border-color: white;
+}
+.btn-mail .form-control{
+   
+   border-radius: 30px!important;
+    border-top-left-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+}
+.btn-mail-btn{
+	border-color: white!important;
+	color: white!important;
+	background-color: #5878CF!important;
+	border-width: 0px!important;
+	border-radius: 30px!important;
+	
+	height: 40px!important;
+	margin-top: 8px!important;
+}
+.in-ma{
+	margin-left: -100px!important;
+}
+.email-logo{
+	background-color: white!important;
+	color: #5878CF!important;
+	margin-top: 10px!important;
+}
+.mail-img{
+	height: 300px;
+	margin-top: 150px;
+	margin-left: 80px;
+}
+/*Footer style*/
+#footer{
+		   font-family: 'Poppins', sans-serif;
+
+	background-repeat: no-repeat;
+	background-position: -200px 0px; 
+	margin-top: 200px;
+	background-image: url("../../images/bg/bg footer.svg");
+	height: 500px;
+}
+.item-list{
+	margin-top: 200px;
+	margin-left: 100px;
+}
+.item-list h6{
+	color: white;
+	font-weight: 900;
+
+}
+.item-list .nav a{
+	color: white;
+}
+.social-media{
+		margin-left: 100px;
+	margin-top: 30px;
+
+}
+.social-media .nav a{
+	color: white;
+}
+.copyrigth{
+	color: white;
+	margin-top: 40px;
+	margin-left: -200px;
+}
+
+/* Media Query */
+/*1021*/
+	@media screen and (max-width: 1021px) {
+		.form-hero{
+			margin: 0px!important;
+			padding: 0px!important;
+		}
+		#mail{
+			display: none!important; 
+		}
+		.right-area {
+     margin-left: 0px!important; 
+     position:  relative!important;
+     margin-bottom: 20px!important;
+}
+.service-img{
+  	margin-left: 0px!important;
+  }
+  
+}
+@media screen and (max-width: 990px) {
+		#service .container .row .col-md-4{
+			/*display: inline-grid;*/
+			margin-right:  0px;
+		}
+		
+		.card-deck{
+			margin-left: 30px!important;
+			flex-flow: nowrap!important;
+			display: inline-block!important;
+		}
+		.card{
+			margin-left: 0px!important;
+			width: auto!important;
+			margin-bottom: 20px!important;
+		}
+		.btn-plan-1 .btn-plan-2{
+			width: 0px!important;
+			margin-left: 0px!important;
+		}
+		.rd{
+			margin-left: 140px!important;
+		}
+  .img-why{
+  	width: 300px!important;
+  	margin-top: 50px!important;
+  }
+  .client{
+  	margin: 0px!important;
+  }
+  #footer{
+  	height: 550px!important;
+  }
+  .right-area {
+     margin-left: 0px!important; 
+     position:  relative!important;
+     margin-bottom: 20px!important;
+}
+  .service-img{
+  	margin-left: 0px!important;
+  }
+  	}
+		
+}

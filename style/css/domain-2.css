@@ -1,0 +1,507 @@
+/*
+Domain 2 page Style
+
+Createur :HMIMI CHIOUKH 
+
+Theme Name : ATIC Multipurpose Bootstrap Theme
+
+Categories : Bootstrap, Multipurpose theme,Domain,Business
+
+Date : 29/01/2019
+*/
+
+/*  Body style */
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+*{
+
+}
+body{
+margin: 0!important;
+padding: 0!important;
+	font-family: 'Poppins', sans-serif;
+}
+/*Header*/
+header{
+	background-image: url("../../images/bg/bg header-domain.svg");
+	background-repeat: no-repeat;
+	height: 600px;
+	background-position :-400px -700px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 200px!important;
+}
+.Bg-atic{
+	background-color: transparent!important;
+}
+.navbar{
+	padding-top: 25px!important;
+	padding-right: 10px!important;
+}
+.navbar-nav{
+}
+.navbar-nav li{
+	padding-right: 5px;
+	margin-right: 10px!important;
+}
+.btn-ask{
+	border-color: white!important;
+	color: white!important;
+	border-radius: 25px!important;
+	width: 100px;
+}
+.btn-ask a{
+	color: white!important;
+   text-decoration: none!important;
+}
+.logo{
+	width: 80px!important;
+	margin-left: 20px;
+}
+.info-hero{
+	margin-top: 50px;
+	color: white;
+}
+.info-hero h5{
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+/*Domain Style*/
+#service-domain{
+	margin-top: 190px!important;
+}
+.domain-input{
+	width: 800px!important;
+	margin-left: 15%!important;
+	margin-top: 50px!important;
+}
+.btn-domain{
+	background-color: white!important;
+	color: black!important;
+	border-top: 0px!important;
+	border-right: 0px!important;
+	border-bottom: 0px!important;
+	border-left-width: 0.5px!important;
+}
+.btn-search-domain{
+	background-color: #16E878!important;
+	color: white!important;
+	border:0px!important;
+	margin-left: -5px!important;
+
+}
+.btn-domain:hover{
+
+	color: black!important;
+}
+.table{
+	background-color: white!important;
+	-webkit-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+    -moz-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+    box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+}
+.green{
+    background-color:   #7FEB94!important;
+ 	height: 40px;
+ 	margin-top: 30px!important;
+}
+.td-1{
+    background-color:#7FEB94!important;
+    font-weight: normal;
+}
+
+.td-2{
+   font-weight: normal;
+}
+.btn-add-cart-pr{
+	background-color: #16E878!important;
+	border-radius:30px!important;
+	color: white!important;
+	border:0px!important;
+	padding: 10px 20px 10px 20px !important;
+
+}
+.btn-add-cart{
+	background-color:white !important;
+	border-radius:30px!important;
+	color: #16E878!important;
+	border-color: #16E878!important;
+	padding: 10px 20px 10px 20px !important;
+	
+}
+/*Steps style*/
+#steps{
+	margin-top: 100px!important;
+}
+
+.col-1{
+	margin-right: 110px!important;
+}
+.cyrcl{
+	height: 40px;
+	width: 30px;
+	border: 4px solid #5878CF!important;
+	background-color: white;
+
+}
+.cyrcl-1{
+	height: 40px;
+	width: 30px;
+	border: 4px solid #5878CF!important;
+	background-color: #5878CF;
+}
+.lin{
+    margin-top: 15px;
+    margin-left: 250px;
+    width: 870px;
+	height: 10px;
+	background-color: #5878CF;
+}
+.cyrcl-1 span{
+	color: white;
+	 font-family: 'Poppins', sans-serif;
+     margin-top: 5px;
+}
+.cyrcl span b{
+	color: #5878CF;
+	 font-family: 'Poppins', sans-serif;
+     margin-top: 8px;
+}
+.cyrcl span i{
+	color: #5878CF;
+    margin-top: 7px;
+}
+
+.img-step{
+	margin-top: 50px;
+	width: 600px;
+	height: 400px;
+}
+.info-step {
+	margin-top: 90px!important;
+   font-family: 'Poppins', sans-serif;
+}
+.info-step h5{
+	font-weight: 900;
+}
+.button-step{
+	margin-top: 90px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.btn-step{
+	background-color: #16E878!important;
+	color: white!important;
+	border-radius: 30px!important;
+	border-color: transparent!important;
+	padding: 15px!important;
+}
+
+.title-section{
+	margin-bottom: 50px;
+   font-family: 'Poppins', sans-serif;
+}
+
+.title-section h5{
+		font-weight: 900;
+margin-left: -50px!important;
+}
+.cd-domain{
+	color: white!important;
+	font-family: 'Poppins', sans-serif;
+	border: 0px!important;
+    background-color: #5878CF!important;  
+}
+.cd-domain .card-body h4{
+	font-weight: 900;
+}
+.rw-cd{
+	margin-top: 20px!important;
+}
+.left-area{
+	background-color: #5878CF!important;
+	border-radius: 30px!important;
+	height: 50px!important;
+	width: 50px!important; 
+		font-family: 'Poppins', sans-serif;
+ 
+}
+.left-area p{
+
+	color: white!important;
+	font-size: 20px;
+	padding-top: 10px!important;
+}
+.right-area{
+	margin-left: 120px;
+		font-family: 'Poppins', sans-serif;
+
+position: absolute; 
+top: 30px;
+}
+.rigth-area p{
+	color: black!important;
+}
+.info-ser{
+	margin-top: 15px!important;
+}
+.cad{
+	-webkit-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+-moz-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+border:0px!important;
+}
+/*Clients style*/
+#client{
+	margin-top: 100px!important;
+}
+.client-title{
+	   font-family: 'Poppins', sans-serif;
+
+}
+.client-title h5{
+	font-weight: 900;
+   font-family: 'Poppins', sans-serif;
+}
+.right-area{
+	margin-left: 200px;
+position: absolute; 
+top: 10px;
+}
+.str li{
+	margin-right: 10px;
+}
+#clients{
+	margin-top: 50px;
+}
+.cl{
+	margin-top: 90px; 
+}
+.client{
+   font-family: 'Poppins', sans-serif;
+   margin-left: 50px!important;
+
+}
+.middle-area a{
+	color: black;
+	font-size: 16px;
+	font-weight: 900!important; 
+}
+.middle-area{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.client p{
+	font-size: 13px;
+}
+.img-cm{
+	width: 50px;
+}
+.right-area  a{
+	color: black;
+	font-size: 12px;
+}
+/*Newslette style*/
+#mail{
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+.mail-area{
+background-image: url("../../images/bg/bg-mail.svg");
+background-position: -350px 100px;
+background-repeat: no-repeat;
+	height: 500px;
+	margin-left: 0px;
+}
+.info-mail{
+	padding-top: 210px;
+	background-color: transparent;
+	margin-left: 20px;
+	color: white;}
+.info-mail h6{
+	   font-family: 'Poppins', sans-serif;
+	   font-weight: 900;
+	   color: white;
+
+}
+.input-group-text{
+    background-color:   rgba(46, 255, 40, 0.6)!important;
+    border:0px;
+    color: black;
+    margin-left: -5px!important;
+    border-color: transparent!important;
+		   font-family: 'Poppins', sans-serif;
+font-size: 10px!important;
+font-weight: 900!important;
+}
+.form-row{
+	padding-top: 5px!important;
+	padding-left:  25px!important;
+
+}
+.fm-mail{
+	border-radius: 30px!important;
+	width: 250px!important;
+	margin-top: 10px;
+	border-top-left-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+	border-left-width: 0px!important;
+	margin-right: 30px!important; 
+	height: 38px!important;
+}
+.btn-send{
+	margin-top: 10px;
+	margin-left: 25px!important;
+	width: 250px!important;
+	background-color: #5878CF;
+	border-radius: 30px!important;
+}
+.btn-mail{
+	width: 400px!important;
+	border-color: white;
+}
+.btn-mail .form-control{
+   
+   border-radius: 30px!important;
+    border-top-left-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+}
+.btn-mail-btn{
+	border-color: white!important;
+	color: white!important;
+	background-color: #5878CF!important;
+	border-width: 0px!important;
+	border-radius: 30px!important;
+	
+	height: 40px!important;
+	margin-top: 8px!important;
+}
+.in-ma{
+	margin-left: -100px!important;
+}
+.email-logo{
+	background-color: white!important;
+	color: #5878CF!important;
+	margin-top: 10px!important;
+}
+.mail-img{
+	height: 300px;
+	margin-top: 150px;
+	margin-left: 80px;
+}
+/*Footer style*/
+#footer{
+		   font-family: 'Poppins', sans-serif;
+
+	background-repeat: no-repeat;
+	background-position: -200px 0px; 
+	margin-top: 200px;
+	background-image: url("../../images/bg/bg footer.svg");
+	height: 500px;
+}
+.item-list{
+	margin-top: 200px;
+	margin-left: 100px;
+}
+.item-list h6{
+	color: white;
+	font-weight: 900;
+
+}
+.item-list .nav a{
+	color: white;
+}
+.social-media{
+		margin-left: 100px;
+	margin-top: 30px;
+
+}
+.social-media .nav a{
+	color: white;
+}
+.copyrigth{
+	color: white;
+	margin-top: 40px;
+	margin-left: -200px;
+}
+
+
+/* Media Query */
+/*1021*/
+	@media screen and (max-width: 1021px) {
+		.form-hero{
+			margin: 0px!important;
+			padding: 0px!important;
+		}
+		#mail{
+			display: none!important; 
+		}
+		.right-area {
+     margin-left: 0px!important; 
+     position:  relative!important;
+     margin-bottom: 20px!important;
+}
+.service-img{
+  	margin-left: 0px!important;
+  }
+  
+}
+@media screen and (max-width: 990px) {
+		#service .container .row .col-md-4{
+			/*display: inline-grid;*/
+			margin-right:  0px;
+		}
+		.card-deck{
+			margin-left: 30px!important;
+			flex-flow: nowrap!important;
+			display: inline-block!important;
+		}
+		.card {
+			margin-bottom: 20px!important;
+		}
+		.btn-plan-1 .btn-plan-2{
+			width: 0px!important;
+			margin-left: 0px!important;
+		}
+		.domain-input {
+            width: 100%!important; 
+            margin-left: 0%!important; 
+            margin-top: 50px!important;
+                  }
+        .btn-add-cart {
+            padding: 5px 5px 5px 5px !important;
+            font-size: 12px!important;
+                    }
+      .btn-add-cart-pr {
+            padding: 5px 5px 5px 5px !important;
+           font-size: 12px!important;
+                   }
+                   #stepss{
+                   	display: none;
+                   }
+		
+  .img-why{
+  	width: 300px!important;
+  	margin-top: 50px!important;
+  }
+  .client{
+  	margin: 0px!important;
+  }
+  .green{
+  	margin-bottom: 0px!important;
+  	height: 50px!important;
+  }
+
+  #footer{
+  	height: 550px!important;
+  }
+  .right-area {
+     margin-left: 0px!important; 
+     position:  relative!important;
+     margin-bottom: 20px!important;
+}
+  .service-img{
+  	margin-left: 0px!important;
+  }
+  	}
+		
+}

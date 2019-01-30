@@ -1,0 +1,96 @@
+<svg id="pc" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="811.439" height="419.318" viewBox="0 0 811.439 419.318">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Groupe_7" data-name="Groupe 7" transform="translate(180.19)" opacity="0.7">
+    <path id="Tracé_78" data-name="Tracé 78" d="M766.6,199H343.624A13.674,13.674,0,0,0,330,212.716V503.833a13.674,13.674,0,0,0,13.624,13.715H489.1V567.8h-6.632a6.933,6.933,0,0,0-6.908,6.958V584.84H489.1V590.8H621.126V584.84h13.54V574.758a6.933,6.933,0,0,0-6.908-6.958h-6.24v-.434h-.426V517.548H766.6a13.674,13.674,0,0,0,13.624-13.716V212.716A13.674,13.674,0,0,0,766.6,199Z" transform="translate(-330 -199)" fill="url(#linear-gradient)"/>
+  </g>
+  <rect id="Rectangle_15" data-name="Rectangle 15" width="130.306" height="76.847" transform="translate(340.567 309.895)" fill="#bdbdbd"/>
+  <g id="Groupe_8" data-name="Groupe 8" transform="translate(340.149 306.554)" opacity="0.1">
+    <path id="Tracé_79" data-name="Tracé 79" d="M524.482,576.859H649.918c1.512-6.574,2.723-10.859,2.723-10.859H521.5S522.845,570.268,524.482,576.859Z" transform="translate(-521.5 -566)"/>
+  </g>
+  <path id="Tracé_80" data-name="Tracé 80" d="M233.168,3H650.649A13.448,13.448,0,0,1,664.1,16.448V273.636H219.72V16.448A13.448,13.448,0,0,1,233.168,3Z" transform="translate(-36.189 -0.494)" fill="#535461"/>
+  <path id="Tracé_81" data-name="Tracé 81" d="M764.929,567.765H347.448A13.448,13.448,0,0,1,334,554.317V526H778.378v28.317A13.448,13.448,0,0,1,764.929,567.765Z" transform="translate(-150.469 -252.858)" fill="#bdbdbd"/>
+  <circle id="Ellipse_37" data-name="Ellipse 37" cx="7.518" cy="7.518" r="7.518" transform="translate(398.202 286.507)" fill="#535461"/>
+  <path id="Tracé_82" data-name="Tracé 82" d="M398.544,436H541.931a6.824,6.824,0,0,1,6.824,6.824v9.882H391.72v-9.882A6.824,6.824,0,0,1,398.544,436Z" transform="translate(-64.518 -71.811)" fill="#bdbdbd"/>
+  <g id="Groupe_9" data-name="Groupe 9" transform="translate(267.896 59.406)" opacity="0.5">
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="275.648" height="156.835" rx="4.5" fill="url(#linear-gradient)"/>
+  </g>
+  <rect id="Rectangle_17" data-name="Rectangle 17" width="268.581" height="153.661" rx="4.5" transform="translate(271.429 60.559)" fill="#fff"/>
+  <g id="Groupe_10" data-name="Groupe 10" transform="translate(346.247 82.619)" opacity="0.5">
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="29.603" height="26.646" rx="4.5" fill="#5878cf"/>
+  </g>
+  <rect id="Rectangle_19" data-name="Rectangle 19" width="79.929" height="2.957" rx="1.478" transform="translate(384.729 82.619)" fill="#e0e0e0"/>
+  <rect id="Rectangle_20" data-name="Rectangle 20" width="66.439" height="2.957" rx="1.478" transform="translate(384.729 91.507)" fill="#e0e0e0"/>
+  <g id="Groupe_11" data-name="Groupe 11" transform="translate(346.247 124.067)" opacity="0.5">
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="29.603" height="26.646" rx="4.5" fill="#5878cf"/>
+  </g>
+  <rect id="Rectangle_22" data-name="Rectangle 22" width="79.929" height="2.957" rx="1.478" transform="translate(384.729 124.067)" fill="#e0e0e0"/>
+  <rect id="Rectangle_23" data-name="Rectangle 23" width="79.929" height="2.957" rx="1.478" transform="translate(384.729 132.946)" fill="#e0e0e0"/>
+  <g id="Groupe_12" data-name="Groupe 12" transform="translate(346.247 165.514)" opacity="0.5">
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="29.603" height="26.646" rx="4.5" fill="#5878cf"/>
+  </g>
+  <rect id="Rectangle_25" data-name="Rectangle 25" width="79.929" height="2.957" rx="1.478" transform="translate(384.729 165.514)" fill="#e0e0e0"/>
+  <rect id="Rectangle_26" data-name="Rectangle 26" width="80.464" height="2.957" rx="1.478" transform="translate(384.729 174.393)" fill="#e0e0e0"/>
+  <line id="Ligne_1" data-name="Ligne 1" y1="18.377" transform="translate(405.72 16.706)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <line id="Ligne_2" data-name="Ligne 2" y1="24.115" transform="translate(405.72 41.873)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <circle id="Ellipse_38" data-name="Ellipse 38" cx="3.341" cy="3.341" r="3.341" transform="translate(402.379 62.647)" fill="#5878cf"/>
+  <circle id="Ellipse_39" data-name="Ellipse 39" cx="3.341" cy="3.341" r="3.341" transform="translate(402.379 35.082)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+  <line id="Ligne_3" data-name="Ligne 3" y1="18.377" transform="translate(405.72 16.706)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <line id="Ligne_4" data-name="Ligne 4" y1="24.115" transform="translate(405.72 41.873)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <circle id="Ellipse_40" data-name="Ellipse 40" cx="3.341" cy="3.341" r="3.341" transform="translate(402.379 62.647)" fill="#5878cf"/>
+  <circle id="Ellipse_41" data-name="Ellipse 41" cx="3.341" cy="3.341" r="3.341" transform="translate(402.379 35.082)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+  <line id="Ligne_5" data-name="Ligne 5" y2="25.894" transform="translate(405.72 233.048)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <line id="Ligne_6" data-name="Ligne 6" y2="24.115" transform="translate(405.72 209.659)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <circle id="Ellipse_42" data-name="Ellipse 42" cx="3.341" cy="3.341" r="3.341" transform="translate(402.379 206.318)" fill="#5878cf"/>
+  <line id="Ligne_7" data-name="Ligne 7" x1="26.312" transform="translate(229.055 140.747)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <line id="Ligne_8" data-name="Ligne 8" x1="24.115" transform="translate(254.222 140.747)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <circle id="Ellipse_43" data-name="Ellipse 43" cx="3.341" cy="3.341" r="3.341" transform="translate(274.996 137.406)" fill="#5878cf"/>
+  <g id="Groupe_13" data-name="Groupe 13" transform="translate(340.985 363.771)" opacity="0.1">
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="130.306" height="2.506"/>
+  </g>
+  <g id="Groupe_14" data-name="Groupe 14" transform="translate(14.803 146.605)" opacity="0.7">
+    <path id="Tracé_83" data-name="Tracé 83" d="M266.884,534.511H206.408l.835-6.8c17.09-15.344,28.141-56.224,28.141-56.224a5.648,5.648,0,0,0-.727.15c-10.024,2.021-17.157,6.139-22.144,11.093l2.122-18.092c31.574-6.8,44.1-48.564,44.1-48.564-20.147,4.469-32.71,11.385-40.512,17.951l3.107-26.579c21.35,7.326,43.435-31.591,43.435-31.591l-.835-.175.418-.267-.635.226c-23.6-5.087-36.21,8.4-40.3,14.008l.309-2.606q-.936,2.506-1.821,4.912h0v.067q-2.506,6.791-4.586,13.415h0q-1.813,5.655-3.391,11.193v-.05s-.977-23.773-26.045-30.029c0,0,2.631,51.847,22.495,43.36h0c-1.838,7.518-3.341,14.751-4.644,21.776h0q-1.245,6.858-2.172,13.365l-.117.134.117-.1-.05.342h0q-.835,5.906-1.42,11.51c.384-7.2-.927-28-25.435-47.545,0,0-32.577,57.251,22.971,68.494l.368.317-.084-.259.5.109.226-2.94a308.557,308.557,0,0,0,.192,36.836h0c.058.835.117,1.671.175,2.464H139.827c-23.338,48.272,12.964,74.726,12.964,74.726H253.026C291.951,560.071,266.884,534.511,266.884,534.511Zm-65.153-54.862Z" transform="translate(-132.002 -374.513)" fill="url(#linear-gradient-3)"/>
+  </g>
+  <path id="Tracé_84" data-name="Tracé 84" d="M216.294,556.706S200.423,487.377,235.506,398" transform="translate(-130.492 -231.776)" fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="3" opacity="0.6"/>
+  <path id="Tracé_85" data-name="Tracé 85" d="M141.509,563H264.3s24.224,30.906-13.365,76.847H154.038S118.956,608.106,141.509,563Z" transform="translate(-117.519 -258.952)" fill="#5878cf"/>
+  <path id="Tracé_86" data-name="Tracé 86" d="M237,400.284s12.2-21.718,41.439-15.035c0,0-24.165,41.147-45.941,27.673Z" transform="translate(-133.751 -229.465)" fill="#4db6ac"/>
+  <path id="Tracé_87" data-name="Tracé 87" d="M223.667,425.558s-.944-22.211-25.167-28.058c0,0,2.506,48.447,21.718,40.512Z" transform="translate(-128.151 -231.694)" fill="#4db6ac"/>
+  <path id="Tracé_88" data-name="Tracé 88" d="M218.725,463.795s4.469-23.271,51.245-33.295c0,0-14.918,48.13-53.4,46.2Z" transform="translate(-131.128 -237.129)" fill="#4db6ac"/>
+  <path id="Tracé_89" data-name="Tracé 89" d="M208.009,492.385s4.92-24.332-24.315-46.885c0,0-31.741,54.019,22.954,64.176Z" transform="translate(-124.204 -239.6)" fill="#4db6ac"/>
+  <path id="Tracé_90" data-name="Tracé 90" d="M213.544,533.571s-3.391-34.389,33.362-41.071c0,0-13.423,48.021-33.412,56.583Z" transform="translate(-130.616 -247.341)" fill="#4db6ac"/>
+  <path id="Tracé_91" data-name="Tracé 91" d="M233,413.4s31.741-24.224,45.106-28.4" transform="translate(-133.834 -229.635)" fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="1" opacity="0.3"/>
+  <path id="Tracé_92" data-name="Tracé 92" d="M216.5,476.441s38.424-40.93,53.459-45.941" transform="translate(-131.116 -237.129)" fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="1" opacity="0.3"/>
+  <path id="Tracé_93" data-name="Tracé 93" d="M198.5,397.5s23.388,31.741,21.718,40.094" transform="translate(-128.151 -231.694)" fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="1" opacity="0.3"/>
+  <path id="Tracé_94" data-name="Tracé 94" d="M185.5,445.5s12.529,56.8,22.553,64.318" transform="translate(-126.01 -239.6)" fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="1" opacity="0.3"/>
+  <path id="Tracé_95" data-name="Tracé 95" d="M213.5,549.3s20.047-55.13,33.412-56.8" transform="translate(-130.622 -247.341)" fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="1" opacity="0.3"/>
+  <g id="Groupe_15" data-name="Groupe 15" transform="translate(23.154 304.048)" opacity="0.1">
+    <path id="Tracé_96" data-name="Tracé 96" d="M265.624,563H142.835c-.276.56-.543,1.119-.835,1.671H261.447s23.631,30.163-12.028,75.177h2.84C289.847,593.906,265.624,563,265.624,563Z" transform="translate(-142 -563)"/>
+  </g>
+  <rect id="Rectangle_28" data-name="Rectangle 28" width="811.44" height="27.506" transform="translate(0 380.561)" fill="#e0e0e0"/>
+  <rect id="Rectangle_29" data-name="Rectangle 29" width="742.67" height="11.251" transform="translate(34.381 408.067)" fill="#e0e0e0"/>
+  <rect id="Rectangle_30" data-name="Rectangle 30" width="742.67" height="3.75" transform="translate(34.381 408.067)" opacity="0.1"/>
+  <line id="Ligne_9" data-name="Ligne 9" x2="5.012" transform="translate(576.538 140.747)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <line id="Ligne_10" data-name="Ligne 10" x2="37.488" transform="translate(532.267 140.747)" stroke="#5878cf" stroke-miterlimit="10" stroke-width="2"/>
+  <circle id="Ellipse_44" data-name="Ellipse 44" cx="3.341" cy="3.341" r="3.341" transform="translate(528.926 137.406)" fill="#5878cf"/>
+  <circle id="Ellipse_45" data-name="Ellipse 45" cx="3.341" cy="3.341" r="3.341" transform="translate(569.856 137.406)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+  <g id="Groupe_16" data-name="Groupe 16" transform="translate(683.874 236.013)" opacity="0.7">
+    <path id="Tracé_97" data-name="Tracé 97" d="M1011.518,617.144l.084-.125q.259-.4.51-.835l.092-.159q.242-.409.459-.835l.075-.142c.167-.326.326-.652.468-.994h0a19.875,19.875,0,0,0,.785-2.1l.083-.276c.075-.259.15-.518.217-.777l.083-.367q.083-.351.15-.71a2.264,2.264,0,0,1,.075-.4c.025-.134.075-.468.109-.71a1.836,1.836,0,0,1,.05-.409,4.424,4.424,0,0,0,.067-.768V537.055h-11.569V503.243h-14.2v33.813h-9.79V488.491h-14.2v48.564h-5.338V481.55h-14.2v55.505H933v69a20.643,20.643,0,0,0,20.882,20.381h40.094a21.041,21.041,0,0,0,16.906-8.4h0Q1011.192,617.586,1011.518,617.144Z" transform="translate(-933 -481.55)" fill="url(#linear-gradient-4)"/>
+  </g>
+  <rect id="Rectangle_31" data-name="Rectangle 31" width="13.365" height="83.53" transform="translate(698.074 268.13)" fill="#535461"/>
+  <rect id="Rectangle_32" data-name="Rectangle 32" width="13.365" height="27.565" transform="translate(698.074 240.565)" fill="#3ad29f"/>
+  <rect id="Rectangle_33" data-name="Rectangle 33" width="13.365" height="83.53" transform="translate(716.45 274.812)" fill="#535461"/>
+  <rect id="Rectangle_34" data-name="Rectangle 34" width="13.365" height="27.565" transform="translate(716.45 247.248)" fill="#4d8af0"/>
+  <rect id="Rectangle_35" data-name="Rectangle 35" width="13.365" height="83.53" transform="translate(739.003 289.012)" fill="#535461"/>
+  <rect id="Rectangle_36" data-name="Rectangle 36" width="13.365" height="27.565" transform="translate(739.003 261.448)" fill="#f55f44"/>
+  <path id="Tracé_98" data-name="Tracé 98" d="M821.72,352h76.847v66.406a19.63,19.63,0,0,1-19.63,19.629H841.349a19.629,19.629,0,0,1-19.63-19.629Z" transform="translate(-135.341 -57.976)" fill="#5878cf"/>
+  <g id="Groupe_17" data-name="Groupe 17" transform="translate(686.379 294.024)" opacity="0.1">
+    <path id="Tracé_99" data-name="Tracé 99" d="M936,551v3.341h73.506v66.406a19.538,19.538,0,0,1-4.177,12.1,19.587,19.587,0,0,0,7.518-15.445V551Z" transform="translate(-936 -551)"/>
+  </g>
+</svg>

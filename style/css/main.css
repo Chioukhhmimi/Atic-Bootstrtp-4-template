@@ -1,0 +1,402 @@
+/*
+Main Index Style
+
+Createur :HMIMI CHIOUKH 
+
+Theme Name : ATIC Multipurpose Bootstrap Theme
+
+Categories : Bootstrap, Multipurpose theme,Domain,Business
+
+Date : 29/01/2019
+*/
+
+/*  Body style */
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+*{
+
+}
+body{
+margin: 0!important;
+padding: 0!important;
+	font-family: 'Poppins', sans-serif;
+}
+/*Header Section Style*/
+header{
+	background-image: url("../../images/bg/bg-header.svg");
+	background-repeat: no-repeat;
+	height: 800px;
+	background-position :-200px -800px;
+    font-family: 'Poppins', sans-serif;
+}
+.Bg-atic{
+	background-color: transparent!important;
+}
+/*Navigation bar  */
+.navbar{
+	padding-top: 25px!important;
+	padding-right: 10px!important;
+}
+.navbar-nav li{
+	padding-right: 5px;
+	margin-right: 10px!important;
+}
+
+.btn-ask{
+	border-color: white!important;
+	color: white!important;
+	border-radius: 25px!important;
+	width: 100px;
+
+}
+.btn-ask a{
+    color: white!important;
+    text-decoration: none!important;
+}
+/*Logo style*/
+.logo{
+	width: 80px!important;
+	margin-left: 20px;
+}
+/*Send u mail Style*/
+.info-hero{
+	margin-top: 50px;
+	color: white;
+}
+.info-hero h2{
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.talk{
+	padding-top: 10px;
+	padding-left: 20px;
+}
+.talk h5{
+	font-weight: bolder;
+}
+.form-hero{
+	margin-top: 50px;
+	height: 350px;
+	width: 300px;
+	margin-left: 190px;
+	border-radius: 30px;
+	background-color: white!important;
+    -webkit-box-shadow: -11px 11px 47px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -11px 11px 47px -5px rgba(0,0,0,0.75);
+    box-shadow: -11px 11px 47px -5px rgba(0,0,0,0.75);
+}
+.form-row{
+	padding-top: 5px!important;
+	padding-left:  25px!important;
+
+}
+.form-control{
+	border-radius: 30px!important;
+	width: 250px!important;
+	margin-top: 10px;
+	border-top-left-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+	border-left-width: 0px!important;
+	margin-right: 30px!important; 
+	height: 38px!important;
+}
+.btn-send{
+	margin-top: 10px;
+	margin-left: 25px!important;
+	width: 250px!important;
+	background-color: #5878CF;
+	border-radius: 30px!important;
+}
+
+.input-group-text{
+    background-color: transparent!important;
+    color: black;
+    margin-top: 9.45px;
+    height: 38.15px;
+    border-radius: 30px!important;
+    border-right-width: 0px!important;
+    border-right-color: transparent;
+    border-bottom-right-radius: 0px!important;
+    border-top-right-radius: 0px!important;
+
+}
+/*Send mail style end*/
+/*Service Section Style start*/
+#service{
+	margin-top: 20px!important;
+}
+/*Title section*/
+.title-section{
+	font-weight: 900;
+	margin-bottom: 50px;
+   font-family: 'Poppins', sans-serif;
+
+}
+.title-section h5{
+		font-weight: 900;
+margin-left: -50px!important;
+}
+/*Card style*/
+.card{
+	margin-right: 0px!important;
+	margin-left: 50px!important;
+	border-width: 0px!important;
+	border-radius: 10!important;
+	-webkit-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+    -moz-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+    box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+    width: 19rem!important;
+}
+/*Section service style end*/
+
+/*Section Why choose us style end*/
+#why{
+	margin-top: 100px;
+}
+/*Title Section style*/
+.why-info{
+	margin-right: 40px;
+	margin-top: 50px;
+	font-family: 'Poppins',sans-serif;
+}
+.why-info h5{
+   font-weight: 900;
+   font-family: 'Poppins', sans-serif;
+}
+/*Image Style*/
+.img-serv{
+	margin-left: 35%;
+	margin-top: 30px;
+	width: 91px!important;
+    height: 78.19px!important;
+}
+.img-why{
+	width: 400px;
+	margin-left: 100px!important;
+}
+/* Why choose us Section  style end*/
+
+/* Our project Section  style end*/
+#project{
+	margin-top: 150px;
+}
+/*Section title*/
+.project-info{
+	font-family: 'Poppins', sans-serif;
+}
+.project-info h5{
+	font-weight: 900;
+   font-family: 'Poppins', sans-serif;
+}
+/*Card style*/
+.card-pr{
+        -box-shadow: 0px!important;
+    	margin-right: 0px!important;
+}
+/* Our project Section  style end*/
+
+/*Client section style start*/
+#client{
+	margin-top: 100px!important;
+}
+/*section style*/
+.client-title{
+	   font-family: 'Poppins', sans-serif;
+
+}
+.client-title h5{
+	font-weight: 900;
+   font-family: 'Poppins', sans-serif;
+}
+.right-area{
+	margin-left: 200px;
+position: absolute; 
+top: 10px;
+}
+.str li{
+	margin-right: 10px;
+}
+.cl{
+	margin-top: 90px; 
+}
+.client{
+   font-family: 'Poppins', sans-serif;
+   margin-left: 50px!important;
+
+}
+.middle-area a{
+	color: black;
+	font-size: 16px;
+	font-weight: 900!important; 
+}
+.middle-area{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.client p{
+	font-size: 13px;
+}
+.img-cm{
+	width: 50px;
+}
+.right-area  a{
+	color: black;
+	font-size: 12px;
+}
+#mail{
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+.mail-area{
+background-image: url("../../images/bg/bg-mail.svg");
+background-position: -350px 100px;
+background-repeat: no-repeat;
+	height: 500px;
+	margin-left: 0px;
+}
+.info-mail{
+	padding-top: 210px;
+	background-color: transparent;
+	margin-left: 20px;
+	color: white;}
+.info-mail h6{
+	   font-family: 'Poppins', sans-serif;
+	   font-weight: 900;
+	   color: white;
+
+}
+.btn-mail{
+	width: 400px!important;
+	border-color: white;
+}
+.btn-mail .form-control{
+   
+   border-radius: 30px!important;
+    border-top-left-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+}
+.btn-mail-btn{
+	border-color: white!important;
+	color: white!important;
+	background-color: #5878CF!important;
+	border-width: 0px!important;
+	border-radius: 30px!important;
+	
+	height: 40px!important;
+	margin-top: 8px!important;
+}
+.input-group-append{
+	margin-left: -100px!important;
+}
+.email-logo{
+	background-color: white!important;
+	color: #5878CF!important;
+	margin-top: 10px!important;
+}
+.mail-img{
+	height: 300px;
+	margin-top: 150px;
+	margin-left: 80px;
+}
+
+/* Client opnion  Section  style end*/
+
+/* Footer Section  style*/
+
+#footer{
+		   font-family: 'Poppins', sans-serif;
+
+	background-repeat: no-repeat;
+	background-position: -200px 0px; 
+	margin-top: 200px;
+	background-image: url("../../images/bg/bg footer.svg");
+	height: 500px;
+}
+.item-list{
+	margin-top: 200px;
+	margin-left: 100px;
+}
+.item-list h6{
+	color: white;
+	font-weight: 900;
+
+}
+.item-list .nav a{
+	color: white;
+}
+.social-media{
+		margin-left: 100px;
+	margin-top: 30px;
+
+}
+.social-media .nav a{
+	color: white;
+}
+.copyrigth{
+	color: white;
+		margin-top: 40px;
+
+	margin-left: -200px;
+}
+
+/* Footer Section  style end*/
+
+
+
+/* Media Query */
+/*1021*/
+	@media screen and (max-width: 1021px) {
+		.card{
+			margin-left: 0px!important;
+			width: auto!important;
+			margin-bottom: 20px!important;
+		}
+		.form-hero{
+			margin: 0px!important;
+			padding: 0px!important;
+		}
+		#mail{
+			display: none!important; 
+		}
+		.img-why{
+			margin-left: 0px!important;
+			height: 350px!important;
+			width: 340px!important;
+		}
+		.client{
+  	        margin: 0px!important;
+  }
+  .right-area {
+            margin-left: 0px!important; 
+            position:  relative!important;
+            margin-bottom: 20px!important;
+}
+  	}
+		
+
+@media screen and (max-width: 990px) {
+		#service .container .row .col-md-4{
+			/*display: inline-grid;*/
+			margin-right:  0px;
+		}
+		.card{
+			margin-left: 0px!important;
+			width: auto!important;
+			margin-bottom: 20px!important;
+		}
+        .img-why{
+  	        width: 300px!important;
+  	        margin-top: 50px!important;
+               }
+        .client{
+  	        margin: 0px!important;
+               }
+        .right-area {
+            margin-left: 0px!important; 
+            position:  relative!important;
+            margin-bottom: 20px!important;
+                }
+        #footer{
+  	        height: 550px!important;
+               }
+}

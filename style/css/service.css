@@ -1,0 +1,478 @@
+/*
+Service  Style
+
+Createur :HMIMI CHIOUKH 
+
+Theme Name : ATIC Multipurpose Bootstrap Theme
+
+Categories : Bootstrap, Multipurpose theme,Domain,Business
+
+Date : 29/01/2019
+*/
+
+/*  Body style */
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+*{
+
+}
+body{
+margin: 0!important;
+padding: 0!important;
+	font-family: 'Poppins', sans-serif;
+}
+/*Header style*/
+header{
+	background-image: url("../../images/bg/bg-header-service.svg");
+	background-repeat: no-repeat;
+	height: 800px;
+	background-position :-700px -500px;
+    font-family: 'Poppins', sans-serif;
+}
+.Bg-atic{
+	background-color: transparent!important;
+}
+/*Navigation bar*/
+.navbar{
+	padding-top: 25px!important;
+	padding-right: 10px!important;
+}
+.navbar-nav li{
+	padding-right: 5px;
+	margin-right: 10px!important;
+}
+.btn-ask{
+	border-color: white!important;
+	color: white!important;
+	border-radius: 25px!important;
+	width: 100px;
+}
+.btn-ask a{
+    text-decoration: none!important;
+    color: white!important;
+}
+/*Logo style*/
+.logo{
+	width: 80px!important;
+	margin-left: 20px;
+}
+.info-hero{
+	margin-top: 50px;
+	color: white;
+}
+.info-hero h5{
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.pc-image{
+	background-image: url("../../images/web-bg.svg");
+	background-position: -100px -200px;
+	background-repeat: no-repeat;
+	height: 500px;
+
+}
+.service-img{
+	width: 800px;
+	height: 250px;
+	margin-left: 100px;
+	margin-top: 60px;
+}
+.pc-text{
+	margin-top: 20%;
+	margin-left: 90px;
+	    font-family: 'Poppins', sans-serif;
+
+}
+.pc-text h4{
+
+	    font-weight: 900;
+
+}
+.seo-image{
+	background-image: url("../../images/bg-seo.svg");
+	background-position: 100px -200px;
+	background-repeat: no-repeat;
+	height: 500px;
+
+}
+.seo-text{
+  margin-top: 20%;
+  margin-left: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+.seo-text h4{
+	    font-weight: 900;
+}
+.service-img-seo{
+	width: 500px;
+	height: 450px;
+	margin-top: 60px;
+}
+.mobile-image{
+
+	background-image: url("../../images/bg-mobile.svg");
+	background-position: -190px -190px;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.service-img-app{
+
+	width: 900px;
+	height: 450px;
+	margin-top: 60px;
+}
+/* hosting */
+#hosting{
+	margin-top: 190px;
+}
+#hosting div.row{
+ 
+  width:90%;
+ 
+  margin:auto;
+ 
+}
+.title-section{
+	font-weight: 900;
+	margin-bottom: 50px;
+   font-family: 'Poppins', sans-serif;
+
+}
+.title-section h5{
+		font-weight: 900;
+margin-left: -50px!important;
+}
+.card{
+	margin-left: 50px!important;
+	font-family: 'Poppins', sans-serif;
+	-webkit-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+   -moz-box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+    box-shadow: -5px 8px 20px 2px rgba(0,0,0,0.21);
+    border-width: 0px!important;
+	border-radius: 10px!important;
+	width: 300px!important;
+}
+
+
+.card-body .nav {
+	margin-top: 25px!important;
+	margin-left: 15%!important;
+	line-height: 3rem!important;
+}
+.card-title{
+	
+	padding-top: 40px;
+	margin-bottom: 30px!important;
+}
+.t1{
+	margin-left: 35%!important;
+}
+.t2{
+	margin-left: 25%!important;
+}
+.t3{
+	margin-left: 30%!important;
+}
+.sub-1{
+	margin-left: 40%!important;
+}
+.sub-2{
+	margin-left: 30%!important;
+}
+.card h5{
+	font-weight: 900;
+}
+.card h6{
+	font-weight: 900;
+	color: #5878CF;
+}
+.cd-1{
+	height: 500px!important;
+}
+
+.btn-plan-1{
+	margin-top: 20px;
+	margin-left: 40px;
+	background-color: transparent!important;
+	color: #5878CF!important;
+	border-radius: 30px!important;
+	width: 150px;
+	height:  50px;
+	border-color: #5878CF!important;
+}
+.btn-plan-2{
+	margin-top: 20px;
+	margin-left: 40px;
+	background-color: #5878CF!important;
+	color: white!important;
+	border-radius: 30px!important;
+	width: 150px;
+	height:  50px;
+	border-color: #5878CF!important;
+}
+
+
+
+
+
+span.per-month{
+ 
+ 
+  margin-left:-5px;
+ 
+}
+ 
+
+
+
+
+
+
+
+/*Client opnion style*/
+#client{
+	margin-top: 100px!important;
+}
+.client-title{
+	   font-family: 'Poppins', sans-serif;
+
+}
+.client-title h5{
+	font-weight: 900;
+   font-family: 'Poppins', sans-serif;
+}
+.right-area{
+	margin-left: 200px;
+position: absolute; 
+top: 10px;
+}
+.str li{
+	margin-right: 10px;
+}
+#clients{
+	margin-top: 50px;
+}
+.cl{
+	margin-top: 90px; 
+}
+.client{
+   font-family: 'Poppins', sans-serif;
+   margin-left: 50px!important;
+
+}
+.middle-area a{
+	color: black;
+	font-size: 16px;
+	font-weight: 900!important; 
+}
+.middle-area{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.client p{
+	font-size: 13px;
+}
+.img-cm{
+	width: 50px;
+}
+.right-area  a{
+	color: black;
+	font-size: 12px;
+}
+
+/* Newsletter Style*/
+#mail{
+	margin-top: 180px;
+	margin-bottom: 100px;
+}
+.mail-area{
+background-image: url("../../images/bg/bg-mail.svg");
+background-position: -350px 100px;
+background-repeat: no-repeat;
+	height: 500px;
+	margin-left: 0px;
+}
+.info-mail{
+	padding-top: 210px;
+	background-color: transparent;
+	margin-left: 20px;
+	color: white;}
+.info-mail h6{
+	   font-family: 'Poppins', sans-serif;
+	   font-weight: 900;
+	   color: white;
+}
+.input-group-text{
+    background-color: transparent!important;
+    color: black;
+    margin-top: 9.45px;
+    height: 38.15px;
+    border-radius: 30px!important;
+    border-right-width: 0px!important;
+    border-right-color: transparent;
+    border-bottom-right-radius: 0px!important;
+    border-top-right-radius: 0px!important;
+}
+.form-row{
+	padding-top: 5px!important;
+	padding-left:  25px!important;
+}
+.form-control{
+	border-radius: 30px!important;
+	width: 250px!important;
+	margin-top: 10px;
+	border-top-left-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+	border-left-width: 0px!important;
+	margin-right: 30px!important; 
+	height: 38px!important;
+}
+.btn-send{
+	margin-top: 10px;
+	margin-left: 25px!important;
+	width: 250px!important;
+	background-color: #5878CF;
+	border-radius: 30px!important;
+}
+.btn-mail{
+	width: 400px!important;
+	border-color: white;
+}
+.btn-mail .form-control{
+   
+   border-radius: 30px!important;
+    border-top-left-radius: 0px!important;
+	border-bottom-left-radius: 0px!important;
+}
+.btn-mail-btn{
+	border-color: white!important;
+	color: white!important;
+	background-color: #5878CF!important;
+	border-width: 0px!important;
+	border-radius: 30px!important;
+	
+	height: 40px!important;
+	margin-top: 8px!important;
+}
+.input-group-append{
+	margin-left: -100px!important;
+}
+.email-logo{
+	background-color: white!important;
+	color: #5878CF!important;
+	margin-top: 10px!important;
+}
+.mail-img{
+	height: 300px;
+	margin-top: 150px;
+	margin-left: 80px;
+}
+/*Footer style*/
+#footer{
+		   font-family: 'Poppins', sans-serif;
+
+	background-repeat: no-repeat;
+	background-position: -200px 0px; 
+	margin-top: 200px;
+	background-image: url("../../images/bg/bg footer.svg");
+	height: 500px;
+}
+.item-list{
+	margin-top: 200px;
+	margin-left: 100px;
+}
+.item-list h6{
+	color: white;
+	font-weight: 900;
+
+}
+.item-list .nav a{
+	color: white;
+}
+.social-media{
+		margin-left: 100px;
+	margin-top: 30px;
+
+}
+.social-media .nav a{
+	color: white;
+}
+.copyrigth{
+	color: white;
+	margin-top: 40px;
+	margin-left: -200px;
+}
+
+/* Media Query */
+/*1021*/
+	@media screen and (max-width: 1021px) {
+		.form-hero{
+			margin: 0px!important;
+			padding: 0px!important;
+		}
+		#mail{
+			display: none!important; 
+		}
+		.right-area {
+     margin-left: 0px!important; 
+     position:  relative!important;
+     margin-bottom: 20px!important;
+}
+.service-img{
+  	margin-left: 0px!important;
+  }
+  
+}
+@media screen and (max-width: 990px) {
+		#service .container .row .col-md-4{
+			/*display: inline-grid;*/
+			margin-right:  0px;
+		}
+		.card-deck{
+			margin-left: 30px!important;
+			flex-flow: nowrap!important;
+			display: inline-block!important;
+		}
+		.pc-image   {
+            background-position: -300px -100px;
+                    }
+         .seo-image {
+            background-position: 50px -100px;
+                    }
+         .service-img-seo {
+            width: 400px;
+                 }
+         .mobile-image {
+            background-position: -290px -190px;
+                 }
+         .service-img-app{
+            width: 400px;
+                 }
+		.card {
+			margin-bottom: 20px!important;
+		        }
+		.btn-plan-1 .btn-plan-2{
+			width: 0px!important;
+			margin-left: 0px!important;
+		        }
+        .img-why{
+  	        width: 300px!important;
+  	        margin-top: 50px!important;
+                }
+        .client{
+  	        margin: 0px!important;
+               }
+        #footer{
+  	        height: 550px!important;
+               }
+        .right-area {
+           margin-left: 0px!important; 
+           position:  relative!important;
+           margin-bottom: 20px!important;
+                }
+         .service-img{
+  	       margin-left: 0px!important;
+  	       width: 400px!important;
+                }
+  	}
+		
